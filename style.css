@@ -3,7 +3,7 @@ body{
     flex-direction: column;
     align-items: center;
 }
-header{font-weight: 400;color: red}
+header{font-weight: 400;color: blue}
 img{
     height: 250px;
 }
